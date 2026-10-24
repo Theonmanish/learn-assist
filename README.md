@@ -134,10 +134,5 @@ The scripts do not require API keys for the default local Ollama setup.
 Future improvements could include stronger input schemas, configurable paths,
 automated tests, a safer structured prompt format, and a user interface.
 
-## Copyright and data responsibility
 
-Do not include downloaded tutorial videos, audio, transcripts, datasets, or
-generated indexes in a public repository unless you have permission and the
-rights to redistribute them. Obtain and process your own material, comply with
-applicable copyright and privacy laws, and inspect generated files before
-publishing.
+
