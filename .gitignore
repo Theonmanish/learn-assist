@@ -1,0 +1,35 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Generated media and intermediate data
+audios/
+jsons/
+new_jsons/
+videos/
+unused/
+
+# Derived outputs
+embeddings.npz
+embeddings.joblib
+output.json
+prompt.txt
+response.txt
+Untitled-1.md

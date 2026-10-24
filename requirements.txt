@@ -1,0 +1,4 @@
+numpy
+openai-whisper
+requests
+scikit-learn
